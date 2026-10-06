@@ -7,11 +7,8 @@ A full-stack trip planning application for property-carrying commercial drivers.
 **This is a planning/demo application, not a certified ELD system.**
 
 ## Live Demo
-
-Frontend: `<FRONTEND_URL>`
-
-Backend API: `<BACKEND_URL>`
-
+Frontend: https://hos-trip-planner-gilt.vercel.app/
+Backend API: https://hos-trip-planner-vj4z.onrender.com
 Replace these placeholders after deployment and production verification.
 
 ## Features
